@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "74LVC125APW")(type "KiCad")(uri "${KIPRJMOD}/symbols/74LVC125APW_118/74LVC125APW_118.kicad_sym")(options "")(descr "Buffer"))
+  (lib (name "IS66WVS4M8BLL")(type "KiCad")(uri "${KIPRJMOD}/symbols/LIB_IS66WVS4M8BLL-104NLI/IS66WVS4M8BLL-104NLI/KiCad/IS66WVS4M8BLL-104NLI.kicad_sym")(options "")(descr "8Mb SRAM"))
+)

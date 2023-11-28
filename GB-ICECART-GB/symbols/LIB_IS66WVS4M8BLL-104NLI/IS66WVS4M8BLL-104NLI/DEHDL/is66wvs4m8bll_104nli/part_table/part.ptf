@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'IS66WVS4M8BLL_104NLI'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Integrated Silicon Solution Inc.", "IS66WVS4M8BLL-104NLI" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "870-ISS4M8BLL-104NLI", "https://www.mouser.co.uk/ProductDetail/ISSI/IS66WVS4M8BLL-104NLI?qs=doiCPypUmgHfByEUFkOsAw%3D%3D", "PSRAM (Pseudo SRAM) Memory IC 32Mbit SPI, QPI 104 MHz 7 ns 8-SOIC", "https://www.issi.com/WW/pdf/66-67WVS4M8ALL-BLL.pdf", "1.75 mm"
+END_PART
+
+END.

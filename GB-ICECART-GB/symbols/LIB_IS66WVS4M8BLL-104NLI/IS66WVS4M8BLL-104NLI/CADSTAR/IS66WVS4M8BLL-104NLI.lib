@@ -1,0 +1,16 @@
+.IS66WVS4M8BLL-104NLI :1 ;PSRAM (Pseudo SRAM) Memory IC 32Mbit SPI, QPI 104 MHz 7 ns 8-SOIC
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="CE#" 2="SO/SIO1" 3="SIO2" 4="VSS" 5="SI/SIO0" 6="CLK" 7="SIO3" 8="VDD"
+*MXP 8
+*DFN IS66WVS4M8BLL-104NLI
+~!Mouser Part Number (870-ISS4M8BLL-104NLI)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ISSI/IS66WVS4M8BLL-104NLI?qs=doiCPypUmgHfByEUFkOsAw%3D%3D)
+~!Manufacturer_Name (Integrated Silicon Solution Inc.)
+~!Manufacturer_Part_Number (IS66WVS4M8BLL-104NLI)
+~!Link Datasheet (https://www.issi.com/WW/pdf/66-67WVS4M8ALL-BLL.pdf)
+~!Height (1.75mm)
+~!3D_Model (IS66WVS4M8BLL-104NLI)
+IS66WVS4M8BLL-104NLI
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

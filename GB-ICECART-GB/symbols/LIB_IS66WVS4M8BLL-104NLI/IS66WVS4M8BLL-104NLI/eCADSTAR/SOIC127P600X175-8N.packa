@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "IS66WVS4M8BLL-104NLI"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-06-09-05:57:09)
+    (mountForm default
+        (footprintRef "SOIC127P600X175-8N")
+        (spec "System")
+    )
+)
