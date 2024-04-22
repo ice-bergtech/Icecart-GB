@@ -1,0 +1,9 @@
+Manufacturer=Integrated Silicon Solution Inc.
+PartNumber=IS66WVS4M8BLL-104NLI
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=2.1
+Released=2023-06-09 05:56:34
+Downloaded=2023-11-26 19:16:42
+3D=Y

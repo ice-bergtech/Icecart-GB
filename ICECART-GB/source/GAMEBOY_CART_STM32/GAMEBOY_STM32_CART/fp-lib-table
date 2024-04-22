@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "IS66WVS4M8BLL")(type "KiCad")(uri "${KIPRJMOD}/symbols/LIB_IS66WVS4M8BLL-104NLI/IS66WVS4M8BLL-104NLI/KiCad")(options "")(descr ""))
+  (lib (name "75LVC125APW")(type "KiCad")(uri "${KIPRJMOD}/symbols/74LVC125APW_118/footprints.pretty")(options "")(descr ""))
+)

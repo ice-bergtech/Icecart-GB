@@ -1,0 +1,638 @@
+146288042830357
+brilliant-kicad-library
+BGA-24_6x8mm_Layout5x5_P1.0mm
+BGA-25, http://cds.linear.com/docs/en/datasheet/4624fc.pdf
+BGA-25 uModule
+0
+24
+24
+brilliant-kicad-library
+BGA-49_4x4mm_Layout7x7_P0.5mm
+BGA-49, 7x7, 4x4mm package, pitch 0.50mm, ball 0.25mm, pad 0.20mm
+BGA-49
+0
+49
+49
+brilliant-kicad-library
+BGA-100_5.0x5.0mm_Layout10x10_P0.5mm_Ball0.3mm_Pad0.25mm_NSMD
+Per TI SPRABB3 (https://www.ti.com/lit/an/sprabb3/sprabb3.pdf)
+BGA-100
+0
+100
+100
+brilliant-kicad-library
+BGA-100_5.0x5.0mm_Layout10x10_P0.5mm_Ball0.23mm_Pad0.20mm_NSMD
+Per TI SPRABB3 (https://www.ti.com/lit/an/sprabb3/sprabb3.pdf) & TI BQ25125
+BGA-100
+0
+100
+100
+brilliant-kicad-library
+BGA-100_5.0x5.0mm_Layout10x10_P0.5mm_Ball0.23mm_Pad0.23mm_NSMD
+Per TI SPRABB3 (https://www.ti.com/lit/an/sprabb3/sprabb3.pdf) & TI BQ25125
+BGA-100
+0
+100
+100
+brilliant-kicad-library
+Battery_Grepow_GRP403530_tabs
+Solder tabs for Grepow GRP403530 mounted horizontally on board edge
+battery solder tab
+0
+2
+2
+brilliant-kicad-library
+C_0201_0603Metric_0.6x0.3x0.35mm
+Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+capacitor
+0
+4
+2
+brilliant-kicad-library
+C_0201_0603Metric_0.6x0.3x0.56mm
+Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+capacitor
+0
+4
+2
+brilliant-kicad-library
+C_0402_1005Metric_1.0x0.5x0.35mm
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+brilliant-kicad-library
+C_0402_1005Metric_1.0x0.5x0.56mm
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+brilliant-kicad-library
+C_0402_1005Metric_1.0x0.5x0.71mm
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+brilliant-kicad-library
+C_0603_1608Metric_1.6x0.8x0.50mm
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+brilliant-kicad-library
+C_0603_1608Metric_1.6x0.8x0.90mm
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+brilliant-kicad-library
+C_0603_1608Metric_1.6x0.8x0.94mm
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+brilliant-kicad-library
+C_0603_1608Metric_1.6x0.8x1.02mm
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+brilliant-kicad-library
+CapSense_14x4mm
+
+
+0
+1
+1
+brilliant-kicad-library
+CapSense_15x4mm
+
+
+0
+1
+1
+brilliant-kicad-library
+Conn_811-22-002-30-000101
+Mill-Max Spring-Loaded Pogo Pin Header Strip 1x2 P2.54mm, https://www.mill-max.com/products/datasheet/sockets/811-22-002-30-000101
+connector pogo pin
+0
+2
+2
+brilliant-kicad-library
+Conn_1578-3-57-15-00-00-03-0
+Mill-Max Spring-Loaded Target Contact with Flat Face 2.0x1.4mm, https://www.mill-max.com/products/datasheet/pinsrecs/1578-3-57-15-00-00-03-0
+connector target contact flat cylinder
+0
+1
+1
+brilliant-kicad-library
+Conn_BM23FR0.6-24DS-0.35V
+Hirose BM23FR Series 24-pin Socket 0.35mm pitch 0.6mm height Board-to-Board or -FPC Connector (Ref: https://www.hirose.com/product/document?clcode=CL0480-0260-0-95&productname=BM23FR0.6-24DS-0.35V(895)&series=BM23FR&documenttype=2DDrawing&lang=en&documentid=D164574_en)
+SMD
+0
+28
+24
+brilliant-kicad-library
+Conn_FPC_1x5_P1.0mm_Handsoldering
+
+
+0
+5
+5
+brilliant-kicad-library
+Conn_FPC_1x6_P0.8mm_Handsoldering
+
+
+0
+6
+6
+brilliant-kicad-library
+Conn_FPC_1x8_P0.6mm_Handsoldering
+
+
+0
+8
+8
+brilliant-kicad-library
+Conn_FPC_Edge_1x8_P0.6mm_Handsoldering
+
+
+0
+16
+8
+brilliant-kicad-library
+Conn_FR02C051JA1-R5000
+
+
+0
+51
+51
+brilliant-kicad-library
+Conn_OK-22NF024-04
+
+
+0
+24
+24
+brilliant-kicad-library
+Conn_OK-22NF024-04-MK8
+
+
+0
+24
+24
+brilliant-kicad-library
+Conn_OV5640_MK3
+OV5640 common commercial FPC connector, using Hirose FH12-24S-0.5SH, 24 Pins per row, pin order reversed (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+26
+25
+brilliant-kicad-library
+Conn_S7221-45R
+
+
+0
+2
+2
+brilliant-kicad-library
+Conn_SWD_10-pin_0.05inch
+Through hole straight pin header, 2x05, 1.27mm pitch, double rows, http://cnctech.us/pdfs/3221-XX-0100-00.pdf
+SWD Through hole pin header THT 2x05 1.27mm double row shrouded
+0
+10
+10
+brilliant-kicad-library
+Cypress_CY3280_MBR3_EVK
+Through hole straight socket strip, 1x08, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x08 2.54mm single row
+0
+32
+32
+brilliant-kicad-library
+Cypress_CY3280_MBR3_EVK_compact
+Through hole straight socket strip, 1x08, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x08 2.54mm single row
+0
+6
+6
+brilliant-kicad-library
+FL1200112
+
+
+0
+4
+4
+brilliant-kicad-library
+Hirose_DF51A-2P-2DSA(01)_P2.00mm_Vertical
+Hirose DF51 through hole, DF51A-2P-2DSA(01), 2 Pins per row (https://www.hirose.com/product/document?clcode=CL0543-5105-0-00&productname=DF51A-2P-2DSA&series=DF51&documenttype=2DDrawing&lang=en&documentid=0001257016)
+connector Hirose DF51 vertical keyed key
+0
+2
+2
+brilliant-kicad-library
+Hole_0.5mm
+Mounting Hole 0.5mm, no annular
+mounting hole 0.5mm no annular
+0
+0
+0
+brilliant-kicad-library
+InvenSense_LGA-6_3.5x2.65mm_P0.884mm
+InvenSense ICS-41351 Top Port PDM microphone LGA-6 (https://invensense.tdk.com/products/digital/ics-41351/)
+lga land grid array
+0
+6
+6
+brilliant-kicad-library
+LED_Broadcom_HSMG-C120
+Broadcom green LED, right angle, side emitting, 1.6 x 0.6 x 1.0 mm, https://docs.broadcom.com/docs/AV02-0551EN , https://docs.broadcom.com/doc/AV02-0376EN
+LED 0603 Broadcom Avago side-firing right angle
+0
+3
+2
+brilliant-kicad-library
+LGA-5_3.5x2.65x0.98mm_P0.82mm
+InvenseSense footprint, http://invensense.tdk.com/wp-content/uploads/2020/05/DS-000357-T3902-v1.0.pdf
+InvenSense mems microphone T3902 ICS‐41350
+0
+5
+5
+brilliant-kicad-library
+LGA-6_3.5x2.65mm_P0.884mm
+LGA-6 (https://product.tdk.com/info/en/documents/catalog_datasheet/mems-mic/DS-000157-ICS-41351-v1.1.pdf)
+lga land grid array
+0
+6
+6
+brilliant-kicad-library
+L_0805_2012Metric_2.0x1.2x1.0mm
+Inductor SMD 0805 (2012 Metric), height 1.0mm, (Body size source: ), generated by own work
+inductor
+0
+2
+2
+brilliant-kicad-library
+L_1008_2520Metric_2.5x2.0x1.0mm
+Inductor SMD 1008 (2520 Metric), height 1.0mm
+inductor
+0
+2
+2
+brilliant-kicad-library
+L_1008_2520Metric_2.5x2.0x1.2mm
+Inductor SMD 1008 (2520 Metric), height 1.2mm, (Body size source: https://product.tdk.com/info/en/catalog/datasheets/inductor_commercial_power_mlp2520_en.pdf), generated by own work
+inductor
+0
+2
+2
+brilliant-kicad-library
+L_1008_2520Metric_2.5x2.0x1.35mm
+Inductor SMD 1008 (2520 Metric), height 1.35mm, (Body size source: ), generated by own work
+inductor
+0
+2
+2
+brilliant-kicad-library
+Logo_02mm_Mask
+
+
+0
+0
+0
+brilliant-kicad-library
+Logo_03mm_Mask
+
+
+0
+0
+0
+brilliant-kicad-library
+Logo_04mm_Mask
+
+
+0
+0
+0
+brilliant-kicad-library
+Logo_05mm_Mask
+
+
+0
+0
+0
+brilliant-kicad-library
+Logo_10mm_Mask
+
+
+0
+0
+0
+brilliant-kicad-library
+Logo_15mm_Mask
+
+
+0
+0
+0
+brilliant-kicad-library
+Logo_15mm_Silk
+
+
+0
+0
+0
+brilliant-kicad-library
+Logo_20mm_Mask
+
+
+0
+0
+0
+brilliant-kicad-library
+Logo_20mm_Silk
+
+
+0
+0
+0
+brilliant-kicad-library
+Logo_25mm_Mask
+
+
+0
+0
+0
+brilliant-kicad-library
+Logo_25mm_Silk
+
+
+0
+0
+0
+brilliant-kicad-library
+Logo_30mm_Mask
+
+
+0
+0
+0
+brilliant-kicad-library
+Logo_30mm_Silk
+
+
+0
+0
+0
+brilliant-kicad-library
+MountingHole_1.1mm
+Mounting Hole 1.1mm, no annular
+mounting hole 1.1mm no annular
+0
+0
+0
+brilliant-kicad-library
+MountingHole_1.1mm_M1_screw
+Mounting Hole 1.1mm, no annular
+mounting hole 1.1mm no annular
+0
+0
+0
+brilliant-kicad-library
+Nexperia_XSON-8_SOT1203_1.35x1mm_P0.35mm
+XSON-8 1.35x1mm Pitch0.35mm
+Nexperia XSON-8 SOT1203 1.35x1mm Pitch0.35mm
+0
+8
+8
+brilliant-kicad-library
+Oscillator_SMD_SiTime_SiT8021_1.54x0.84mm
+Oscillator 1.54x0.84mm
+
+0
+4
+4
+brilliant-kicad-library
+PinHeader_1x01_P1.00mm_Vertical_DNP
+Through hole straight pin header, 1x01, 1.00mm pitch, single row
+Through hole pin header THT 1x01 1.00mm single row
+0
+1
+1
+brilliant-kicad-library
+PinHeader_1x02_P1.00mm_Vertical_DNP
+Through hole straight pin header, 1x02, 1.00mm pitch, single row
+Through hole pin header THT 1x02 1.00mm single row
+0
+2
+2
+brilliant-kicad-library
+PinHeader_2x5_P1.27_SMD_FTSH-105-01-F-DV-K
+http://suddendocs.samtec.com/prints/ftsh-1xx-xx-xxx-dv-xxx-footprint.pdf
+
+0
+10
+10
+brilliant-kicad-library
+PinHeader_2x05_P1.27mm_Vertical_Shrouded_CNCTech_3221-10-0100-00
+Through hole straight pin header, 2x05, 1.27mm pitch, double rows, http://cnctech.us/pdfs/3221-XX-0100-00.pdf
+Through hole pin header THT 2x05 1.27mm double row shrouded
+0
+10
+10
+brilliant-kicad-library
+PinHeader_2x05_P2.54mm_Horizontal_Shrouded
+Through hole angled pin header, 2x05, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x05 2.54mm double row
+0
+10
+10
+brilliant-kicad-library
+QFN-16-1EP_3x3x0.6mm_P0.5mm_EP1.7x1.7mm
+QFN, 16 Pin (https://www.st.com/resource/en/datasheet/tsv521.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+21
+17
+brilliant-kicad-library
+QFN-32-1EP_5x5x0.6mm_P0.5mm_EP3.45x3.45mm
+QFN, 32 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_32_05-08-1693.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+42
+33
+brilliant-kicad-library
+QFN-88-1EP_10x10mm_P0.4mm_EP6.74x6.74mm
+QFN 88 pins
+QFN
+0
+114
+89
+brilliant-kicad-library
+QFN-88-1EP_10x10mm_P0.4mm_EP6.74x6.74mm_ThermalVias
+QFN 88 pins
+QFN
+0
+131
+89
+brilliant-kicad-library
+SRP6540-5R6M
+SRP6540-5R6M
+Inductor
+0
+2
+2
+brilliant-kicad-library
+Switch_Tactile_THT_6x6mm_MJTP1230
+Apem MJTP1230 (from DK library, added 3D from TE Connectivity 1825910-6) http://media.digikey.com/pdf/Data%20Sheets/APEM%20Components%20PDFs/MJTP%20Series-6MM.pdf
+switch tactile 6mm
+0
+4
+4
+brilliant-kicad-library
+TE_1-2295018-2
+TE Connectivity 1-2295018-2 USB C connector, https://www.te.com/usa-en/product-1-2295018-2.html
+connector USB
+0
+30
+25
+brilliant-kicad-library
+TI_DSBGA-6_YFF0006_1.22x0.82x0.625mm
+Texas Instruments (Ref: https://www.ti.com/lit/ml/mxbg078z/mxbg078z.pdf)
+TI YFF0006
+0
+12
+6
+brilliant-kicad-library
+TI_DSBGA-25_YFP0025_2.56x2.50x0.5mm
+Texas Instruments DSBGA 0.5mm max height (Ref: https://www.ti.com/lit/ml/mxbg084m/mxbg084m.pdf)
+TI YFP0025 DSBGA BGA 5x5
+0
+50
+25
+brilliant-kicad-library
+TI_SC-70-6
+Texas Instruments "DCK" package, SC-70-6 (https://www.ti.com/lit/ds/symlink/ina211.pdf)
+TI SC-70-6
+0
+6
+6
+brilliant-kicad-library
+TI_uSIP-8
+TI 8-pin MicroSIP https://www.ti.com/lit/ug/slib006/slib006.pdf
+TI MicroSIP
+0
+8
+8
+brilliant-kicad-library
+TabRouteHoles_5x0.5mm_P25mil
+Mounting Hole 0.5mm, no annular
+mounting hole 0.5mm no annular
+0
+0
+0
+brilliant-kicad-library
+Taiyo-Yuden_EYSLSNZWW
+Taiyo Yuden nRF52810 Module Bluetooth https://www.yuden.co.jp/or/product/category/module/lineup/eyslsnzww/
+Taiyo Yuden nRF52810 Module Bluetooth BLE
+0
+28
+28
+brilliant-kicad-library
+Taiyo_Yuden_EBSLSNZWW
+Taiyo Yuden nRF52810 Module Bluetooth Evaluation Board https://www.yuden.co.jp/or/product/category/module/lineup/eyslsnzww/
+Taiyo Yuden nRF52810 Module Bluetooth Evaluation Board BLE
+0
+22
+22
+brilliant-kicad-library
+TestPoint_Pad_D0.5mm
+SMD pad as test Point, circular, diameter 0.6mm
+test point SMD pad
+0
+1
+1
+brilliant-kicad-library
+TestPoint_Pad_D0.9mm
+SMD pad as test Point, circular, diameter 0.9mm
+test point SMD pad
+0
+1
+1
+brilliant-kicad-library
+TestPoint_Pad_D0.65mm
+SMD pad as test Point, circular, diameter 0.6mm
+test point SMD pad
+0
+1
+1
+brilliant-kicad-library
+TestPoint_THTPad_D0.65mm_Drill0.3mm
+THT pad as test Point, diameter 0.65mm, hole diameter 0.3mm
+test point THT pad
+0
+1
+1
+brilliant-kicad-library
+Texas_DSBGA-4_0.78x0.78mm_Layout2x2_P0.4mm
+Texas Instruments, DSBGA, 0.78x0.78mm, 4 bump 2x2 (perimeter) array, NSMD pad definition (https://www.ti.com/lit/ml/mxbg055r/mxbg055r.pdf)
+Texas Instruments DSBGA BGA YFP0004
+0
+8
+4
+brilliant-kicad-library
+Texas_DSBGA-6_YFF0006_1.22x0.82x0.625mm
+Texas Instruments (Ref: https://www.ti.com/lit/ml/mxbg078z/mxbg078z.pdf) modified to smaller pads
+TI YFF0006
+0
+6
+6
+brilliant-kicad-library
+Texas_DSBGA-25_YFP0025_2.56x2.50x0.5mm
+Texas Instruments DSBGA 0.5mm max height (Ref: https://www.ti.com/lit/ml/mxbg084m/mxbg084m.pdf) modified for smaller pad
+TI YFP0025 DSBGA BGA 5x5
+0
+25
+25
+brilliant-kicad-library
+Texas_X1SON-2_1.1x0.7mm
+https://www.ti.com/lit/ml/mpss034c/mpss034c.pdf
+TI Texas Instruments DPY  X1SON 0402
+0
+2
+2
+brilliant-kicad-library
+USB_Mini_B_Female_548190519
+Molex 0548190519 USB - mini B USB 2.0 OTG Receptacle Connector 5 Position Through Hole, Right Angle
+
+0
+7
+6
+brilliant-kicad-library
+VQFN-16-1EP_3x3x1mm_P0.5mm_EP1.68x1.68mm
+VQFN, 16 Pin, 1mm height (http://www.ti.com/lit/ds/symlink/bq24075.pdf), modified from KiCad library to add 3D model
+VQFN NoLead
+0
+21
+17
+brilliant-kicad-library
+VQFN-16-1EP_3x3x1mm_P0.5mm_EP1.68x1.68mm_ThermalVias
+VQFN, 16 Pin, 1mm height (http://www.ti.com/lit/ds/symlink/bq24075.pdf), modified from KiCad library to add 3D model
+VQFN NoLead
+0
+26
+17
+brilliant-kicad-library
+WLCSP-24_2.642x1.844mm_Layout6x4_P0.4mm
+WLCSP-24
+WLCSP-24
+0
+24
+24

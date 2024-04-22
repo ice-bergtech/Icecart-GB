@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IS66WVS4M8BLL-104NLI
+D PSRAM (Pseudo SRAM) Memory IC 32Mbit SPI, QPI 104 MHz 7 ns 8-SOIC
+K
+F https://www.issi.com/WW/pdf/66-67WVS4M8ALL-BLL.pdf
+$ENDCMP
+#
+#End Doc Library
