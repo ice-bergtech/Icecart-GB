@@ -4,13 +4,11 @@ Another ROM Cartridge for the Gameboy.
 Purpose is to fit the form factor of a gameboy cartridge and act as a ROM cartridge while also providing an arduino-like interface.
 Emulates the functionality of an official cart, with the different bank controllers implemented in software.
 
-Interactive BOM: [GB-ICECART-GB-Alpha/bom/ibom.html](GB-ICECART-GB-Alpha/bom/ibom.html)
-
 [Schematic](GB-ICECART-GB-Alpha/schematic/GB-ICECART-GB.pdf)
 
 ![PCB](GB-ICECART-GB-Alpha/schematic/GB-ICECART-GB-pcb.svg)
 
-![Block Model](./block-model.png)
+![Block Model](docs/block-model.png)
 
 It should also have functionality similar to an arduino, where you can interface with it through GPIO and audio in/out.
 It should be as low-power as possible, since it will run off the gameboy battery.
